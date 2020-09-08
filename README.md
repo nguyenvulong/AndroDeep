@@ -16,3 +16,6 @@ Please also me know your affiliations.
 - Widgets
 - Broadcast Actions  
 - Service Actions  
+
+3. PRAGuard:
+- Using APKiD to analyze obfuscated malware (most of them were not obfuscated by DEXGuard or at least not the original DEXGuard)
