@@ -1,0 +1,853 @@
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio100.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio101.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio102.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio103.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio104.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio105.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio106.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio107.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio108.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio109.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio10.apk!assets/a33.jpg!classes.dex
+ |-> compiler : dx
+[*] /input/ZZContagio10.apk!res/drawable-v1/a33.jpg!classes.dex
+ |-> compiler : dx
+[*] /input/ZZContagio10.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio110.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio111.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio112.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio113.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio114.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio115.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio116.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio117.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio118.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio119.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio11.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio120.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio121.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio122.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio123.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio124.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio125.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio126.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio127.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio128.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio129.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio12.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio130.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio131.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio132.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio133.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio134.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio135.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio136.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio137.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio138.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio139.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio13.apk!assets/a33.jpg!classes.dex
+ |-> compiler : dx
+[*] /input/ZZContagio13.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio140.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio141.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio142.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio143.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio144.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio145.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio146.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio147.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio148.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio149.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio14.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio150.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio151.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio152.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio153.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio154.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio155.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio156.apk!classes.dex
+ |-> anti_vm : Build.TAGS check
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio157.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio158.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio159.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio15.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio160.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio161.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio162.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio163.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio164.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio165.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio166.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio167.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio168.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio169.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio16.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio170.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio171.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio172.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio173.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio174.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio175.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio176.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio177.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio178.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio179.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio17.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio180.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio181.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio182.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio183.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio184.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio185.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio186.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio187.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio188.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio189.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio18.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio190.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio191.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio192.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio193.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio194.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio195.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio196.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio197.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio198.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio199.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio19.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio1.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio200.apk!classes.dex
+ |-> anti_vm : device ID check
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio201.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio202.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio203.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio204.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio205.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio206.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio207.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio208.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio209.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio20.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio210.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio211.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio212.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio213.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio214.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio215.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio216.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio217.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio218.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio219.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio21.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio220.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio221.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio222.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio223.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio224.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio225.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio226.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio227.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio228.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio229.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio22.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio230.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio231.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio232.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio233.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio234.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio235.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio236.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio237.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio23.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio24.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio25.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio26.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio27.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio28.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio29.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio2.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio30.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio31.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio32.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio33.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio34.apk!assets/a33.jpg!classes.dex
+ |-> compiler : dx
+[*] /input/ZZContagio34.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio35.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio36.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio37.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio38.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio39.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio3.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio41.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio42.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio43.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio44.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio45.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio46.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio47.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio48.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio49.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio4.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio50.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio51.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio52.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio53.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio54.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio55.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio56.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio57.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio58.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio59.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio5.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio60.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio61.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio62.apk!assets/a33.jpg!classes.dex
+ |-> compiler : dx
+[*] /input/ZZContagio62.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio63.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio64.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio65.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio66.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio67.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio68.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio69.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio6.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio70.apk!assets/a33.jpg!classes.dex
+ |-> compiler : dx
+[*] /input/ZZContagio70.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio71.apk!assets/a33.jpg!classes.dex
+ |-> compiler : dx
+[*] /input/ZZContagio71.apk!res/drawable-v1/a33.jpg!classes.dex
+ |-> compiler : dx
+[*] /input/ZZContagio71.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio72.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio73.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio74.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio75.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio76.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio77.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio78.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio79.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio7.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio80.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio81.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio82.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio83.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio84.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio85.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio86.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio87.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio88.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio89.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio8.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio90.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio91.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio92.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio93.apk!classes.dex
+ |-> anti_vm : Build.TAGS check
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio94.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio95.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio96.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio97.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio98.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio99.apk!classes.dex
+ |-> compiler : dexlib 2.x
+[+] APKiD 2.1.0 :: from RedNaga :: rednaga.io
+[*] /input/ZZContagio9.apk!assets/a33.jpg!classes.dex
+ |-> compiler : dx
+[*] /input/ZZContagio9.apk!classes.dex
+ |-> compiler : dexlib 2.x
+ |-> obfuscator : DexGuard
